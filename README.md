@@ -192,10 +192,12 @@ class DiaryEntry {
 ---
 
 ## Screenshots
+<img width="390" height="849" alt="image" src="https://github.com/user-attachments/assets/4d24f2cb-f592-4c08-9aa6-22e4263e226e" />
+<img width="395" height="865" alt="image" src="https://github.com/user-attachments/assets/87c7d2a2-71f6-4af3-a3b7-22f2e05e4d76" />
+<img width="400" height="857" alt="image" src="https://github.com/user-attachments/assets/9ce0447a-2451-41e1-b565-66714e340504" />
+<img width="387" height="849" alt="image" src="https://github.com/user-attachments/assets/3300cd19-dd8b-4974-9a1e-09b6da896b86" />
 
-<p align="center">
-  <em>Screenshots coming soon</em>
-</p>
+
 
 <!-- Uncomment when screenshots are available
 <p align="center">
