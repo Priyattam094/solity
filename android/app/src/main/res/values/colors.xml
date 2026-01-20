@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Solity Deep Blue - Primary color for launch screen -->
+    <color name="launch_background">#1E3A5F</color>
+    <!-- Adaptive icon background color -->
+    <color name="ic_launcher_background">#1E3A5F</color>
+</resources>
+
