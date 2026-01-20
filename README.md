@@ -24,6 +24,7 @@
 
 Built with **Clean Architecture** principles and modern Flutter development practices, this project demonstrates proficiency in mobile app development, state management, and software design patterns.
 
+<b>I made this application specifically to learn app authentication and app lock.</b>
 ---
 
 ## Key Features
